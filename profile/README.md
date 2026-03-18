@@ -7,7 +7,7 @@
 ║                          3AMI  TEAM                                  ║
 ║                                                                      ║
 ║     A software team founded by CS students at Suez Canal             ║
-║     University — Faculty of Science, Ismailia, Egypt.               ║
+║     University — Faculty of Science, Ismailia, Egypt.                ║
 ║                                                                      ║
 ║     We build, ship, and collaborate on real-world projects           ║
 ║     across Mobile, Web, Data Science, and Backend Engineering.       ║
@@ -46,25 +46,15 @@ Our work spans the full technology spectrum — from mobile & desktop apps to fu
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Team Lead**
-Flutter Developer
+**Flutter Developer**
+
 Mobile · Desktop · UI/UX
 
 </td>
-<td align="center" width="20%">
 
-### Abdullah Mohamed
-[![GitHub](https://img.shields.io/badge/GitHub-abdullah-181717?style=flat-square&logo=github)](https://github.com)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-**Data Scientist**
-ML · Data Analysis
-
-</td>
 <td align="center" width="20%">
 
 ### Ahmed El-Shazly
@@ -74,11 +64,30 @@ ML · Data Analysis
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**MERN Full-Stack Developer**
+**Full-Stack Web Developer**
+
 React · Node · MongoDB
 
 </td>
+
+<td align="center" width="20%">
+
+### Abdullah Mohamed
+[![GitHub](https://img.shields.io/badge/GitHub-abdullah-181717?style=flat-square&logo=github)](https://github.com)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Data Scientist**
+
+ML · Data Analysis
+
+</td>
+
 <td align="center" width="20%">
 
 ### Mohamed Sayed
@@ -86,7 +95,7 @@ React · Node · MongoDB
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **.NET Developer**
 Backend · Database Design
@@ -99,7 +108,7 @@ Backend · Database Design
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **.NET Developer**
 Backend · APIs
@@ -112,11 +121,21 @@ Backend · APIs
 
 ## 🛠️ Team Tech Stack
 
-### Mobile & Desktop
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 💻 Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Web (MERN)
+### 📱 Mobile & Desktop
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-00B4D8?style=for-the-badge&logo=dart&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-0096C7?style=for-the-badge&logo=dart&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-48CAE4?style=for-the-badge&logo=dart&logoColor=white)
+
+### Web
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -137,6 +156,7 @@ Backend · APIs
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SharedPrefs](https://img.shields.io/badge/Shared_Preferences-4CAF50?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🏗️ Architecture & Design Patterns
 
@@ -152,6 +172,8 @@ Backend · APIs
 ### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -161,10 +183,10 @@ Backend · APIs
 ## 📌 How We Work
 
 ```
- ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
- │  Phase  01  │───▶│  Phase  02  │───▶│  Phase  03  │───▶│  Phase  04  │
- │  PLANNING   │    │  ANALYSIS   │    │   DESIGN    │    │IMPLEMENTATION│
- └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
+ ┌─────────────┐     ┌─────────────┐     ┌─────────────┐      ┌──────────────┐
+ │  Phase  01  │───▶│  Phase  02   │───▶│  Phase  03  │───▶ │  Phase  04   │
+ │  PLANNING   │     │  ANALYSIS   │     │   DESIGN    │      │IMPLEMENTATION│
+ └─────────────┘     └─────────────┘     └─────────────┘      └──────────────┘
 ```
 
 ### 🗂️ Phase 01 — Planning
