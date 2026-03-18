@@ -14,7 +14,7 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-![Members](https://img.shields.io/badge/Members-4_Engineers-00D2FF?style=for-the-badge&logo=github)
+![Members](https://img.shields.io/badge/Members-5_Engineers-00D2FF?style=for-the-badge&logo=github)
 ![University](https://img.shields.io/badge/SCU-Faculty_of_Science-4CAF50?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Ismailia-Egypt-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
@@ -37,7 +37,7 @@ Our work spans the full technology spectrum — from mobile & desktop apps to fu
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### Ibrahim Nasser
 [![GitHub](https://img.shields.io/badge/GitHub-Ibrahim--nasser0-181717?style=flat-square&logo=github)](https://github.com/Ibrahim-nasser0)
@@ -45,15 +45,14 @@ Our work spans the full technology spectrum — from mobile & desktop apps to fu
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Flutter Developer**
+**Team Lead**
+Flutter Developer
 Mobile · Desktop · UI/UX
-Passionate about .NET
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### Abdullah Mohamed
 [![GitHub](https://img.shields.io/badge/GitHub-abdullah-181717?style=flat-square&logo=github)](https://github.com)
@@ -61,14 +60,12 @@ Passionate about .NET
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Data Scientist**
 ML · Data Analysis
-Modeling & Insights
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### Ahmed El-Shazly
 [![GitHub](https://img.shields.io/badge/GitHub-ahmed--shazly-181717?style=flat-square&logo=github)](https://github.com)
@@ -79,11 +76,10 @@ Modeling & Insights
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **MERN Full-Stack Developer**
-React · Express · Node · MongoDB
-Passionate about .NET
+React · Node · MongoDB
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### Mohamed Sayed
 [![GitHub](https://img.shields.io/badge/GitHub-mohamed--sayed-181717?style=flat-square&logo=github)](https://github.com)
@@ -91,11 +87,22 @@ Passionate about .NET
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**.NET Developer**
+Backend · Database Design
+
+</td>
+<td align="center" width="20%">
+
+### Amr Atef
+[![GitHub](https://img.shields.io/badge/GitHub-amr--atef-181717?style=flat-square&logo=github)](https://github.com)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **.NET Developer**
 Backend · APIs
-Database Design
 
 </td>
 </tr>
