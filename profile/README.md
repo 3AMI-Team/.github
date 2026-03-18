@@ -54,15 +54,15 @@ Our work spans the full technology spectrum — from mobile & desktop apps to fu
 
 Flutter · **.NET** · UI/UX
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Nasser0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Nasser0&theme=tokyonight&hide_border=true" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Nasser0&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-nasser0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-nasser0&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-nasser0&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
 
 </td>
 <td align="center" width="20%">
 
 ### Ahmed El-Shazly
-[![GitHub](https://img.shields.io/badge/GitHub-ahmed--shazly-181717?style=flat-square&logo=github)](https://github.com/ahmed-shazly)
+[![GitHub](https://img.shields.io/badge/GitHub-ImComy-181717?style=flat-square&logo=github)](https://github.com/ImComy)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -75,15 +75,15 @@ Flutter · **.NET** · UI/UX
 
 React · Node · MongoDB · **.NET**
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-shazly&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-shazly&theme=tokyonight&hide_border=true" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shazly&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ImComy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImComy&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImComy&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
 
 </td>
 <td align="center" width="20%">
 
 ### Abdullah Mohamed
-[![GitHub](https://img.shields.io/badge/GitHub-abdullah-181717?style=flat-square&logo=github)](https://github.com/abdullah)
+[![GitHub](https://img.shields.io/badge/GitHub-warriorabdullah--108-181717?style=flat-square&logo=github)](https://github.com/warriorabdullah-108)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -93,15 +93,15 @@ React · Node · MongoDB · **.NET**
 
 ML · Data Analysis
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah&theme=tokyonight&hide_border=true" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=warriorabdullah-108&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=warriorabdullah-108&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warriorabdullah-108&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
 
 </td>
 <td align="center" width="20%">
 
 ### Mohamed Sayed
-[![GitHub](https://img.shields.io/badge/GitHub-mohamed--sayed-181717?style=flat-square&logo=github)](https://github.com/mohamed-sayed)
+[![GitHub](https://img.shields.io/badge/GitHub-MohamedSayed14099-181717?style=flat-square&logo=github)](https://github.com/MohamedSayed14099)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -111,15 +111,15 @@ ML · Data Analysis
 
 Backend · APIs
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-sayed&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-sayed&theme=tokyonight&hide_border=true" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-sayed&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedSayed14099&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSayed14099&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSayed14099&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
 
 </td>
 <td align="center" width="20%">
 
 ### Amr Atef
-[![GitHub](https://img.shields.io/badge/GitHub-amr--atef-181717?style=flat-square&logo=github)](https://github.com/amr-atef)
+[![GitHub](https://img.shields.io/badge/GitHub-amratef2005-181717?style=flat-square&logo=github)](https://github.com/amratef2005)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -129,9 +129,9 @@ Backend · APIs
 
 Backend · APIs
 
-<img src="https://github-readme-stats.vercel.app/api?username=amr-atef&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-atef&theme=tokyonight&hide_border=true" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-atef&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amratef2005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amratef2005&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amratef2005&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="100%"/>
 
 </td>
 </tr>
@@ -231,10 +231,10 @@ We believe effective communication is the backbone of successful collaboration. 
 ## 📌 How We Work
 
 ```
- ┌─────────────┐     ┌─────────────┐    ┌─────────────┐     ┌────────────────┐
- │  Phase  01  │───▶│  Phase  02  │───▶│  Phase  03  │───▶│    Phase  04   │
- │  PLANNING   │     │  ANALYSIS   │    │   DESIGN    │     │ IMPLEMENTATION │
- └─────────────┘     └─────────────┘    └─────────────┘     └────────────────┘
+ ┌─────────────┐     ┌─────────────┐    ┌─────────────┐     ┌────────────────┐     ┌─────────────┐     ┌─────────────┐
+ │  Phase  01  │───▶│  Phase  02  │───▶│  Phase  03  │───▶│    Phase  04   │───▶│  Phase  05  │───▶│  Phase  06  │
+ │  PLANNING   │     │  ANALYSIS   │    │   DESIGN    │     │ IMPLEMENTATION │     │   TESTING   │     │ DEPLOYMENT  │
+ └─────────────┘     └─────────────┘    └─────────────┘     └────────────────┘     └─────────────┘     └─────────────┘
 ```
 
 ### 🗂️ Phase 01 — Planning
@@ -286,6 +286,32 @@ We believe effective communication is the backbone of successful collaboration. 
 | 🔨 **Development** | Build against the agreed architecture and design |
 | 🔍 **Code Review** | PR reviewed by at least one team member before merge |
 | 📄 **Documentation** | Every repo ships with a complete README |
+
+---
+
+### 🧪 Phase 05 — Testing
+
+> Validate the system works correctly and reliably before release.
+
+| Step | Activity |
+|---|---|
+| ✅ **Unit Testing** | Test individual functions and components in isolation |
+| 🔗 **Integration Testing** | Verify modules and APIs interact correctly end-to-end |
+| 🖥️ **UI Testing** | Confirm screens and flows behave as designed |
+| 🐛 **Bug Tracking** | Log, prioritize, and resolve issues before deployment |
+
+---
+
+### 🚀 Phase 06 — Deployment
+
+> Release the product to production safely and consistently.
+
+| Step | Activity |
+|---|---|
+| 📦 **Build & Package** | Generate production-ready builds for all target platforms |
+| 🔁 **Staging Release** | Deploy to a staging environment for final validation |
+| 🚢 **Production Release** | Merge to `main` and deploy to live environment |
+| 📊 **Post-Release Monitoring** | Track errors, performance, and user feedback after launch |
 
 ---
 
