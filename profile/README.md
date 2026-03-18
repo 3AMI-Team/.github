@@ -138,7 +138,18 @@ Backend · APIs
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Workflow
+### 🏗️ Architecture & Design Patterns
+
+| Pattern | Usage |
+|---|---|
+| **Clean Architecture** | Strict separation of Data · Domain · Presentation layers |
+| **MVVM** | UI-ViewModel binding for Desktop & complex screens |
+| **MVC** | Structured request handling in backend & web apps |
+| **SOLID Principles** | Applied across all codebases as a quality standard |
+| **Repository Pattern** | Abstracts data sources from business logic |
+| **Dependency Injection** | Decoupled, testable, and modular service wiring |
+
+### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -150,23 +161,61 @@ Backend · APIs
 ## 📌 How We Work
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    OUR COLLABORATION FLOW                    │
-│                                                             │
-│   Idea  ──▶  Design (Figma)  ──▶  Architecture Decision    │
-│                                           │                 │
-│                                           ▼                 │
-│   Deploy  ◀──  Review & Merge  ◀──  Feature Branches       │
-│                                                             │
-│   Every project lives here — open, versioned, documented.  │
-└─────────────────────────────────────────────────────────────┘
+ ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+ │  Phase  01  │───▶│  Phase  02  │───▶│  Phase  03  │───▶│  Phase  04  │
+ │  PLANNING   │    │  ANALYSIS   │    │   DESIGN    │    │IMPLEMENTATION│
+ └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
 ```
 
-- 🌿 **Branch per feature** — no direct pushes to `main`
-- 🔍 **Code review** before every merge
-- 📋 **Trello** for task tracking & sprint planning
-- 📐 **Figma** for UI/UX design before implementation
-- 📄 **Every repo has a README** — always documented
+### 🗂️ Phase 01 — Planning
+
+> Define the scope, goals, and responsibilities before writing a single line of code.
+
+| Step | Activity |
+|---|---|
+| 💡 **Idea Definition** | Clearly state the problem the project solves |
+| 🎯 **Goal Setting** | Define deliverables, success criteria, and deadline |
+| 👥 **Role Assignment** | Each member owns a module based on their stack |
+| 📋 **Task Breakdown** | Split work into tasks and track via Trello |
+
+---
+
+### 🔍 Phase 02 — Analysis
+
+> Understand the system requirements deeply before committing to any solution.
+
+| Step | Activity |
+|---|---|
+| 📄 **Requirements Gathering** | Functional & non-functional requirements documented |
+| 🔗 **API Contract** | Agree on endpoints, request/response schemas upfront |
+| 🗃️ **Data Modeling** | Define entities, relationships, and DB schema |
+| ⚠️ **Risk Assessment** | Identify technical risks and blockers early |
+
+---
+
+### 🎨 Phase 03 — Design
+
+> Translate requirements into a clear technical and visual blueprint.
+
+| Step | Activity |
+|---|---|
+| 🖼️ **UI/UX Design** | Wireframes and high-fidelity screens via Figma |
+| 🏗️ **Architecture Decision** | Choose Clean Architecture / MVVM / MVC per project |
+| 📐 **System Design** | Define layers, modules, and data flow diagrams |
+| ✅ **Design Review** | All members align on the design before implementation |
+
+---
+
+### 💻 Phase 04 — Implementation
+
+> Ship clean, reviewed, and documented code consistently.
+
+| Step | Activity |
+|---|---|
+| 🌿 **Feature Branching** | One branch per feature — no direct pushes to `main` |
+| 🔨 **Development** | Build against the agreed architecture and design |
+| 🔍 **Code Review** | PR reviewed by at least one team member before merge |
+| 📄 **Documentation** | Every repo ships with a complete README |
 
 ---
 
