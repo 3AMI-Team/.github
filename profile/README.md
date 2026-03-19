@@ -52,7 +52,7 @@ Our work spans the full technology spectrum — from mobile & desktop apps to fu
 
 **Full Stack Mobile & Desktop**
 
-Flutter · **.NET** · UI/UX
+**Flutter** · **.NET** · **UI/UX**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-nasser0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-nasser0&theme=tokyonight&hide_border=true" width="100%"/>
@@ -73,7 +73,7 @@ Flutter · **.NET** · UI/UX
 
 **Full-Stack Web**
 
-React · Node · MongoDB · **.NET**
+**MERN** · **.NET**
 
 <img src="https://github-readme-stats.vercel.app/api?username=ImComy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImComy&theme=tokyonight&hide_border=true" width="100%"/>
@@ -91,7 +91,7 @@ React · Node · MongoDB · **.NET**
 
 **Data Scientist**
 
-ML · Data Analysis
+**ML** · **Data Analysis**
 
 <img src="https://github-readme-stats.vercel.app/api?username=warriorabdullah-108&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=warriorabdullah-108&theme=tokyonight&hide_border=true" width="100%"/>
@@ -109,7 +109,7 @@ ML · Data Analysis
 
 **.NET Developer**
 
-Backend · APIs
+**Backend** · **APIs**
 
 <img src="https://github-readme-stats.vercel.app/api?username=MohamedSayed14099&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSayed14099&theme=tokyonight&hide_border=true" width="100%"/>
@@ -127,7 +127,7 @@ Backend · APIs
 
 **.NET Developer**
 
-Backend · APIs
+**Backend** · **APIs**
 
 <img src="https://github-readme-stats.vercel.app/api?username=amratef2005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amratef2005&theme=tokyonight&hide_border=true" width="100%"/>
